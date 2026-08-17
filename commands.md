@@ -1,4 +1,4 @@
-# Notes
+# Important commands
 
 # Enumeration and scaning
 
